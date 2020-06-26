@@ -7,13 +7,13 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Alternatives to Wirecard`,
+    author: `Matthias Seiderer`,
+    description: `This site shall be a public list containing all alternatives to the insolvent Wirecard AG.`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/matthias_gasser`,
       },
       {
         name: `github`,
